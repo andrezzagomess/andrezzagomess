@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Andrêza 👋
 
-<!--
-**andrezzagomess/andrezzagomess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim 
 
-Here are some ideas to get you started:
+Profissional de Tecnologia da Informação com mais de 10 anos de experiência em suporte técnico, infraestrutura e gestão de serviços de TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente atuo como Técnica de Suporte N3, com experiência em Microsoft 365, Active Directory, Intune, ServiceNow, gerenciamento de mudanças, controle de ativos e documentação de processos.
+
+## Certificações
+
+- AWS Certified Cloud Practitioner
+- MCSA Windows 7
+- ITIL v3
+
+## Tecnologias e Ferramentas 
+
+- Microsoft 365
+- Windows Server
+- Active Directory
+- Intune
+- ServiceNow
+- Jira
+- ITSM
+- AWS
+- GitHub
+
+## Experiência
+
+### Grupo Indra | Minsait
+Técnica de Suporte N3 (2019 - Atual)
+
+### Salux Technology
+Técnica de Informática (2017 - 2019)
+
+### Lanlink
+Técnica de Suporte N2 (2014 - 2017)
+
+## Contato
+
+📧 andrezzagomess@hotmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/andrêza-gomes-a964a02b/
